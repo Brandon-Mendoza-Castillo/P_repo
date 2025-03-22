@@ -1,15 +1,1 @@
-Archivo para registrar commits
-Commit del 2025-01-06 - 1
-Commit del 2025-01-06 - 2
-Commit del 2025-01-07 - 1
-Commit del 2025-01-07 - 2
-Commit del 2025-01-07 - 3
-Commit del 2025-01-07 - 4
-Commit del 2025-01-08 - 1
-Commit del 2025-01-09 - 1
-Commit del 2025-01-10 - 1
-Commit del 2025-01-11 - 1
-Commit del 2025-01-11 - 2
-Commit del 2025-01-12 - 1
-Commit del 2025-01-12 - 2
-Commit del 2025-01-12 - 3
+Archivo de contribuciones
